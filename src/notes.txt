@@ -1,0 +1,12 @@
+API Endpoints - uri/url
+	Retrieve Update Delete
+	Create & list & search
+
+	- Permissions
+
+HTTP Methods - client-side
+	GET, POST, PUT, PATCH, DELETE 
+
+Data Types & Validation - consistency 
+	JSON -> Serializer
+	Validation -> Serializer
